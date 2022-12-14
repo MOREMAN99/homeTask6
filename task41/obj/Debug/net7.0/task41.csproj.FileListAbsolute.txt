@@ -1,0 +1,15 @@
+C:\CsharpHT6\task41\bin\Debug\net7.0\task41.exe
+C:\CsharpHT6\task41\bin\Debug\net7.0\task41.deps.json
+C:\CsharpHT6\task41\bin\Debug\net7.0\task41.runtimeconfig.json
+C:\CsharpHT6\task41\bin\Debug\net7.0\task41.dll
+C:\CsharpHT6\task41\bin\Debug\net7.0\task41.pdb
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.csproj.AssemblyReference.cache
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.AssemblyInfoInputs.cache
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.AssemblyInfo.cs
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.csproj.CoreCompileInputs.cache
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.dll
+C:\CsharpHT6\task41\obj\Debug\net7.0\refint\task41.dll
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.pdb
+C:\CsharpHT6\task41\obj\Debug\net7.0\task41.genruntimeconfig.cache
+C:\CsharpHT6\task41\obj\Debug\net7.0\ref\task41.dll
